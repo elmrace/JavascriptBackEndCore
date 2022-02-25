@@ -1,0 +1,25 @@
+info: Oct-28-2021 11:45:00: 	{
+  name: 'Örnek Proje 5',
+  _id: new ObjectId("617a630ce80502a3e90aefe6"),
+  createdAt: 2021-10-28T08:45:00.758Z,
+  updatedAt: 2021-10-28T08:45:00.758Z
+}
+info: 28-10-2021 11:45:45: 	{
+  name: 'Örnek Proje 5',
+  _id: new ObjectId("617a6339bc72841f76036206"),
+  createdAt: 2021-10-28T08:45:45.891Z,
+  updatedAt: 2021-10-28T08:45:45.891Z
+}
+info: 28-10-2021 12:01:45: 	{
+  name: 'Örnek Proje',
+  _id: new ObjectId("617a66f92a7e706cf9315648"),
+  createdAt: 2021-10-28T09:01:45.666Z,
+  updatedAt: 2021-10-28T09:01:45.666Z
+}
+info: 24-02-2022 14:14:57: 	{
+  name: 'Proje 1',
+  user_id: new ObjectId("62163f617a80dc6792b54285"),
+  _id: new ObjectId("621768b163b97fbb0d3b9ac8"),
+  createdAt: 2022-02-24T11:14:57.219Z,
+  updatedAt: 2022-02-24T11:14:57.219Z
+}
